@@ -70,7 +70,7 @@ Skills and Concepts Demonstrated
 
 
 ## Visualization 
-![](https://github.com/hamadkamorudeen/nigerian-electricity-billing-dashboard-2024/blob/main/Electricity%20Dashboard.jpeg)
+![](https://github.com/hamadkamorudeen/nigerian-electricity-billing-dashboard-2024/blob/main/Electricity%20Dashboard.png)
 
 
 ### Analysis
